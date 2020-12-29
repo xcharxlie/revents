@@ -1,4 +1,12 @@
-.App {
-  text-align: center;
+body{
+   background-color: black;
+}
+
+.ui.main.container {
+  margin-top:7em;
+}
+
+h1{
+  color:white;
 }
 
